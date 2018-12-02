@@ -4,14 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-click = "*"
-doit = "*"
-retrying = "*"
-typing = "*"
-attrs = "*"
-dirsync = "*"
-parsy = "*"
-requests = "*"
 
 [dev-packages]
 tox = "*"
@@ -22,6 +14,7 @@ setuptools = "*"
 twine = "*"
 wheel = "*"
 keyring = "*"
+elm-doc = {editable = true, path = "."}
 
 [requires]
 python_version = "3.6"
