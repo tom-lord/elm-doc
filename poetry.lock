@@ -139,7 +139,7 @@ description = "doit - Automation Tool"
 name = "doit"
 optional = false
 python-versions = ">=3.4"
-version = "0.32.0"
+version = "0.33.0"
 
 [package.dependencies]
 cloudpickle = "*"
@@ -605,7 +605,7 @@ distlib = [
     {file = "distlib-0.3.1.zip", hash = "sha256:edf6116872c863e1aa9d5bb7cb5e05a022c519a4594dc703843343a9ddd9bff1"},
 ]
 doit = [
-    {file = "doit-0.32.0.tar.gz", hash = "sha256:323d0411e50a0babb945e2a639aa6e633fbb84a9f98086df0c880e739237750c"},
+    {file = "doit-0.33.0.tar.gz", hash = "sha256:b777b8ab56711bfbd9345776544d2d107a27612f2c4184b5d2a340388ecba894"},
 ]
 filelock = [
     {file = "filelock-3.0.12-py3-none-any.whl", hash = "sha256:929b7d63ec5b7d6b71b0fa5ac14e030b3f70b75747cef1b10da9b879fef15836"},
